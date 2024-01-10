@@ -42,5 +42,5 @@
 5. Para correr la aplicación ejecuta el siguiente comando: `npm start`
 
 >[!NOTE]
->Si todo funciono correctamente tu aplicación estara corriendo en el [!http://localhost:19006] o en el [!exp://192.168.0.117:8081]
+>Si todo funciono correctamente tu aplicación estara corriendo en el !http://localhost:19006 o en el exp://192.168.0.117:8081
    
